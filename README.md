@@ -1,3 +1,11 @@
 "# Analysis-Vegetarianism-and-Happiness" 
-This Project tries to analyse whether there is a relationship between Vegetarinism and happiness.
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+<a rel=”license”
+href=”http://creativecommons.org/licenses/by/3.0/us/”>
+<img alt=”Creative Commons Attribution 3.0 License”
+src=”http://i.creativecommons.org/l/by/3.0/us/88x31.png”/>
+</a>
+<br/>
+This work is licensed under a <a rel=”license”
+href=”http://creativecommons.org/licenses/by/3.0/us/”>
+Creative Commons Attribution 3.0
+United States License</a>.
